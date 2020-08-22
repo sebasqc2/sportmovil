@@ -1,0 +1,7 @@
+{
+  "name": "sportmovilfront",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
